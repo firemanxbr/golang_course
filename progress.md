@@ -53,18 +53,30 @@
     9. https://youtu.be/s0UYWJUz30k - Cap. 2 - Variáveis, Valores & Tipos - 9. Conversão, não coerção
 
 3. Exercícios: Ninja Nível 1
-    1. https://youtu.be/5K17jFDXvWw - Cap. 3 - Exercícios: Nível #1 - 1 - [exercise-01.go](chapter-03/exercise-01.go)
-    2. https://youtu.be/Q7ZrIDMj9zc - Cap. 3 - Exercícios: Nível #1 - 2 - [exercise-02.go](chapter-03/exercise-02.go)
-    3. https://youtu.be/VkuZ4QMnoZM - Cap. 3 - Exercícios: Nível #1 - 3 - [exercise-03.go](chapter-03/exercise-03.go)
-    4. https://youtu.be/5-0S-gefNe0 - Cap. 3 - Exercícios: Nível #1 - 4 - [exercise-04.go](chapter-03/exercise-04.go)
-    5. https://youtu.be/O0r318FN_Uw - Cap. 3 - Exercícios: Nível #1 - 5 - [exercise-05.go](chapter-03/exercise-05.go)
-    6. https://youtu.be/OINd35-02xo - Cap. 3 - Exercícios: Nível #1 - 6 - [exercise-06.go](chapter-03/exercise-06.go)
+    1. https://youtu.be/5K17jFDXvWw - Cap. 3 - Exercícios: Nível #1 - 1 - [exercise-03-01.go](chapter-03/exercise-03-01.go)
+    2. https://youtu.be/Q7ZrIDMj9zc - Cap. 3 - Exercícios: Nível #1 - 2 - [exercise-03-02.go](chapter-03/exercise-03-02.go)
+    3. https://youtu.be/VkuZ4QMnoZM - Cap. 3 - Exercícios: Nível #1 - 3 - [exercise-03-03.go](chapter-03/exercise-03-03.go)
+    4. https://youtu.be/5-0S-gefNe0 - Cap. 3 - Exercícios: Nível #1 - 4 - [exercise-03-04.go](chapter-03/exercise-03-04.go)
+    5. https://youtu.be/O0r318FN_Uw - Cap. 3 - Exercícios: Nível #1 - 5 - [exercise-03-05.go](chapter-03/exercise-03-05.go)
+    6. https://youtu.be/OINd35-02xo - Cap. 3 - Exercícios: Nível #1 - 6 - [exercise-03-06.go](chapter-03/exercise-03-06.go)
 
 4. Fundamentos da Programação
-    1. https://youtu.be/voisg61hPXA - Cap. 4 – Fundamentos da Programação – 1. Tipo booleano
-    2. https://youtu.be/C55_dhNmvrQ - Cap. 4 – Fundamentos da Programação – 2. Como os computadores funcionam
-    3. https://youtu.be/3yIKCLSWAHA - Cap. 4 – Fundamentos da Programação – 3. Tipos numéricos
-    4. https://youtu.be/g0j0XaVk2EI - Cap. 4 – Fundamentos da Programação – 4. Overflow
-    5. https://youtu.be/AcyS0_BAy7U - Cap. 4 – Fundamentos da Programação – 5. Tipo string (cadeias de caracteres)
-    6. 
+    1. https://youtu.be/voisg61hPXA - Cap. 4 - Fundamentos da Programação - 1. Tipo booleano
+    2. https://youtu.be/C55_dhNmvrQ - Cap. 4 - Fundamentos da Programação - 2. Como os computadores funcionam
+    3. https://youtu.be/3yIKCLSWAHA - Cap. 4 - Fundamentos da Programação - 3. Tipos numéricos
+    4. https://youtu.be/g0j0XaVk2EI - Cap. 4 - Fundamentos da Programação - 4. Overflow
+    5. https://youtu.be/AcyS0_BAy7U - Cap. 4 - Fundamentos da Programação - 5. Tipo string (cadeias de caracteres)
+    6. https://youtu.be/Ma3M7Pdd7HI - Cap. 4 - Fundamentos da Programação - 6. Sistemas numéricos
+    7. https://youtu.be/Yaw80pKukMc - Cap. 4 - Fundamentos da Programação - 7. Constantes
+    8. https://youtu.be/1IduyaGMO3g - Cap. 4 - Fundamentos da Programação - 8. Iota
+    9. https://youtu.be/USntMXkOihY - Cap. 4 - Fundamentos da Programação - 9. Deslocamento de bits
 
+5. Exercícios: Ninja Nível 2
+    1. https://youtu.be/onK_nd--g1g - Cap. 5 - Exercícios: Nível #2 - 1 - [exercise-05-01.go](chapter-05/exercise-05-01.go)
+    2. https://youtu.be/8zEZw19gRTo - Cap. 5 - Exercícios: Nível #2 - 2 - [exercise-05-02.go](chapter-05/exercise-05-02.go)
+    3. https://youtu.be/12o81rTFu_w - Cap. 5 - Exercícios: Nível #2 - 3 - [exercise-05-03.go](chapter-05/exercise-05-03.go)
+    4. https://youtu.be/NxntmGW62Ag - Cap. 5 - Exercícios: Nível #2 - 4 - [exercise-05-04.go](chapter-05/exercise-05-04.go)
+    5. https://youtu.be/LSKCaxazLGs - Cap. 5 - Exercícios: Nível #2 - 5 - [exercise-05-05.go](chapter-05/exercise-05-05.go)
+    6. https://youtu.be/M07eDn7FyxI - Cap. 5 - Exercícios: Nível #2 - 6 - [exercise-05-06.go](chapter-05/exercise-05-06.go)
+
+6. 
