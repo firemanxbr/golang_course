@@ -6,7 +6,8 @@
     3. Exercícios: Ninja Nível 1
     4. Fundamentos da Programação
     5. Exercícios: Ninja Nível 2
-    6. luxo de Controle
+    6. Fluxo de Controle
+
     7. Exercícios: Ninja Nível 3
     8. Agrupamentos de Dados
     9. Exercícios: Ninja Nível 4
@@ -18,16 +19,16 @@
     15. Exercícios: Ninja Nível 7
     16. Aplicações
     17. Exercícios: Ninja Nível 8
-    18. Concorrência (em edição)
-    19. Seu Ambiente de Desenvolvimento (em edição)
-    20. Exercícios: Ninja Nível 9 (em edição)
-    21. Canais (em edição)
-    22. Exercícios: Ninja Nível 10 (em edição)
-    23. Tratamento de Erros (em edição)
-    24. Exercícios: Ninja Nível 11 (em edição)
-    25. Escrevendo Documentação (em edição)
-    26. Exercícios: Ninja Nível 12 (em edição)
-    27. Testes & Benchmarking (em edição)
+    18. Concorrência
+    19. Seu Ambiente de Desenvolvimento
+    20. Exercícios: Ninja Nível 9
+    21. Canais
+    22. Exercícios: Ninja Nível 10
+    23. Tratamento de Erros
+    24. Exercícios: Ninja Nível 11
+    25. Escrevendo Documentação
+    26. Exercícios: Ninja Nível 12
+    27. Testes & Benchmarking
     28. Exercícios: Ninja Nível 13 (em edição)
     30. Considerações Finais (em edição)
 
@@ -79,4 +80,29 @@
     5. https://youtu.be/LSKCaxazLGs - Cap. 5 - Exercícios: Nível #2 - 5 - [exercise-05-05.go](chapter-05/exercise-05-05.go)
     6. https://youtu.be/M07eDn7FyxI - Cap. 5 - Exercícios: Nível #2 - 6 - [exercise-05-06.go](chapter-05/exercise-05-06.go)
 
-6. 
+6. Fluxo de Controle
+    1. https://youtu.be/1G-tbQ6UE_A - Cap. 6 - Fluxo de Controle - 1. Entendendo fluxo de controle
+    2. https://youtu.be/g_Qdxi1b2cE - Cap. 6 – Fluxo de Controle – 2. Loops: inicialização, condição, pós
+    3. https://youtu.be/EL9wo6Zrz9o - Cap. 6 – Fluxo de Controle – 3. Loops: nested loop (repetição hierárquica)
+    4. https://youtu.be/QDaiqhTq3TA - Cap. 6 - Fluxo de Controle - 4. Loops: a declaração for
+    5. https://youtu.be/eGdB8FMCZ0s - Cap. 6 – Fluxo de Controle – 5. Loops: break & continue
+    6. 
+    7. 
+    8. 
+    9. 
+    10. 
+    11. 
+
+7. Exercícios: Ninja Nível 3
+    1. 
+    2. 
+    3. 
+    4. 
+    5. 
+    6. 
+    7. 
+    8. 
+    9. 
+    10. 
+
+8. 
