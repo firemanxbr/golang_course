@@ -1,8 +1,10 @@
-# golang_course
-Golang Course [pt-br] 
+# Go Course
+
+Golang Course [pt-br]
 
 ## Reference
-https://www.youtube.com/c/AprendaGo
 
-## Progress
-[link](progress.md)
+* [Videos](https://www.youtube.com/c/AprendaGo)
+* [Summary](docs/summary.md)
+* [Progress](docs/progress.md)
+* [Outline](docs/outline.md)
