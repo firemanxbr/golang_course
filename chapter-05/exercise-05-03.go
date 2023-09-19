@@ -1,11 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
-const x = 10
-const y float64 = 10.5
+const x int = 10
+const y = 10
 
 func main() {
-	fmt.Println(x)
-	fmt.Println(y)
+	fmt.Println(x, y)
 }
