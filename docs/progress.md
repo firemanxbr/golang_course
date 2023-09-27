@@ -85,4 +85,19 @@
     2. [Slice: literal composta](https://youtu.be/MMzTlWZ9Gjw)                    - [exercise-08-02.go](chapter-08/exercise-08-02.go)
     3. [Slice: for range](https://youtu.be/l6O8HWaoy_w)                           - [exercise-08-03.go](chapter-08/exercise-08-03.go) & [exercise-08-03b.go](chapter-08/exercise-08-03b.go)
     4. [Slice: fatiando ou deletando de uma fatia](https://youtu.be/G0rxcnojV_U)  - [exercise-08-04.go](chapter-08/exercise-08-04.go) & [exercise-08-04b.go](chapter-08/exercise-08-04b.go) & [exercise-08-04c.go](chapter-08/exercise-08-04c.go)
-    5. [x]()
+    5. [Slice: anexando a uma slice](https://youtu.be/MbvABKiAABA)                - [exercise-08-05.go](chapter-08/exercise-08-05.go)
+    6. [Slice: make](https://youtu.be/IMO5_ancK9w)                                - [exercise-08-06.go](chapter-08/exercise-08-06.go)
+    7. [Slice: slice multi-dimensional](https://youtu.be/o3yoYGWqrDE)             - [exercise-08-07.go](chapter-08/exercise-08-07.go)
+    8. [Slice: a surpresa do array subjacente](https://youtu.be/dRNNC7VpztE)      - [exercise-08-08.go](chapter-08/exercise-08-08.go)
+    9. [Maps: introdução](https://youtu.be/clobcQqAgos)                           - [exercise-08-09.go](chapter-08/exercise-08-09.go)
+    10. [Maps: range & deletando](https://youtu.be/7a6I-GnqtSE)                   - [exercise-08-10.go](chapter-08/exercise-08-10.go) & [exercise-08-10b.go](chapter-08/exercise-08-10b.go)
+
+* Cap. 9
+  * Exercícios: Nível 4
+    1. [1](https://youtu.be/cjUFrS3hqgU)  - [exercise-09-01.go](chapter-09/exercise-09-01.go)
+    2. [2](https://youtu.be/xpeExQ5C5S8)  - [exercise-09-02.go](chapter-09/exercise-09-02.go)
+    3. [3](https://youtu.be/Wzc5VOjh-XQ)  - [exercise-09-03.go](chapter-09/exercise-09-03.go)
+    4. [4](https://youtu.be/8Lym_4_dwOQ)  - [exercise-09-04.go](chapter-09/exercise-09-04.go)
+    5. [5](https://youtu.be/gA1cTnWjPaU)  - [exercise-09-05.go](chapter-09/exercise-09-05.go)
+    6. [6](https://youtu.be/KOhQCm8f8AE)  - [exercise-09-06.go](chapter-09/exercise-09-06.go)
+    7. [7](https://youtu.be/f4lvrtXsGIM)  - [exercise-09-07.go](chapter-09/exercise-09-07.go)
