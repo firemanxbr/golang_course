@@ -53,7 +53,3 @@
 26 - Exercícios: Ninja Nível 12
 
 27 - Testes & Benchmarking
-
-28 - Exercícios: Ninja Nível 13
-
-29 - Considerações Finais

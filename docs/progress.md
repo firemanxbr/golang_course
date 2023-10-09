@@ -101,3 +101,24 @@
     5. [5](https://youtu.be/gA1cTnWjPaU)  - [exercise-09-05.go](chapter-09/exercise-09-05.go)
     6. [6](https://youtu.be/KOhQCm8f8AE)  - [exercise-09-06.go](chapter-09/exercise-09-06.go)
     7. [7](https://youtu.be/f4lvrtXsGIM)  - [exercise-09-07.go](chapter-09/exercise-09-07.go)
+    8. [8](https://youtu.be/rfQkR1bH3qw)  - [exercise-09-08.go](chapter-09/exercise-09-08.go)
+    9. [9](https://youtu.be/AKPdowl7tsw)  - [exercise-09-09.go](chapter-09/exercise-09-09.go)
+    10. [10](https://youtu.be/2cx79-nwNQU)  - [exercise-09-10.go](chapter-09/exercise-09-10.go)
+
+* Cap. 10
+  * Structs
+    1. [Struct](https://youtu.be/EaOGcmXo4F8)               - [exercise-10-01.go](chapter-10/exercise-10-01.go)
+    2. [Structs embutidos](https://youtu.be/KBFprVi_haM)    - [exercise-10-02.go](chapter-10/exercise-10-02.go)
+    3. [Lendo a documentação](https://youtu.be/dKaElWlGKo0) - [exercise-10-03.go](chapter-10/exercise-10-03.go)
+    4. [Structs anônimos](https://youtu.be/Y4MKS3gJQ9Q)     - [exercise-10-04.go](chapter-10/exercise-10-04.go)
+
+* Cap. 11
+  * Exercícios: Nível 5
+    1. [1](https://youtu.be/OQMOIcZ-ShY)  - [exercise-11-01.go](chapter-11/exercise-11-01.go)
+    2. [2](https://youtu.be/uDajGJbXP6A)  - [exercise-11-02.go](chapter-11/exercise-11-02.go)
+    3. [3](https://youtu.be/ji14zPQgmN8)  - [exercise-11-03.go](chapter-11/exercise-11-03.go)
+    4. [4](https://youtu.be/uNnLSuRqBuY)  - [exercise-11-04.go](chapter-11/exercise-11-04.go)
+ 
+* Cap. 12
+  * x
+    1. []() - [exercise-11-01.go](chapter-11/exercise-11-01.go)

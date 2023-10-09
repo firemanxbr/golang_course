@@ -5,24 +5,36 @@ import (
 )
 
 func main() {
-	slice := [][]string{
-		"Marcelo": "Barbosa"
+	ss := [][]string{
+		[]string{
+			"miu",
+			"milton",
+			"encher o saco",
+		},
+		[]string{
+			"mimi",
+			"martha",
+			"pedir comida",
+		},
+		[]string{
+			"meus alunos queridos",
+			"que estudam bastante",
+			"fazer os exercícios ninja",
+		},
 	}
 
+	for _, v := range ss {
+		fmt.Println(v)
+	}
 
+	fmt.Println("\n\n")
 
-	x := make([]string, 26, 26)
-	x = []string{"Acre", "Alagoas", "Amapá", "Amazonas",
-		"Bahia", "Ceará", "Espírito Santo", "Goiás", "Maranhão",
-		"Mato Grosso", "Mato Grosso do Sul", "Minas Gerais", "Pará",
-		"Paraíba", "Paraná", "Pernambuco", "Piauí", "Rio de Janeiro",
-		"Rio Grande do Norte", "Rio Grande do Sul", "Rondônia", "Roraima",
-		"Santa Catarina", "São Paulo", "Sergipe", "Tocantins"}
+	for _, v := range ss {
+		fmt.Println(v[0])
+		for _, item := range v {
+			fmt.Println("\t", item)
+		}
 
-	fmt.Println(len(x), cap(x))
-
-	for i := 0; i < len(x); i++ {
-		fmt.Println(x[i])
 	}
 
 }
